@@ -14,7 +14,7 @@ Our platform is powered by the Elyrai AI Assistant, providing:
 - Continuous learning from market trends
 
 # How It Works
-The platform combines multiple technologies to provide a comprehensive trading experience:
+The platform combines multiple technologies to provide a comprehensive Solana experience:
 
 # Backend Data Processing
 - Retrieval of market data through Birdeye API
