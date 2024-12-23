@@ -1,4 +1,32 @@
+### ELYR.AI - Website - Including JUP integration + Elyrai SLMM Powered by Assister with token analysis function
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Features
+# JUP Integration
+- Direct purchase of Elyrai tokens through the JUP protocol
+
+# Elyrai AI Assistant
+Our platform is powered by the Elyrai AI Assistant, providing:
+- Real-time token analysis and insights
+- Personalized trading recommendations
+- Natural language interaction with market data
+- Continuous learning from market trends
+
+# How It Works
+The platform combines multiple technologies to provide a comprehensive trading experience:
+
+# Backend Data Processing
+- Retrieval of market data through Birdeye API
+- Real-time data processing and analysis
+- Integration with blockchain networks
+
+# Elyrai SLM Integration
+
+- Real-time Analysis: Immediate interpretation of market data
+- Conversation History: Storage and tracking of exchanges through the Assisterr API
+- Maintained Context: Preservation of discussion flow for coherent responses
+- Intuitive Interface: Dialog box directly integrated into trading platforms
 
 ## Getting Started
 
